@@ -49,12 +49,12 @@ By completing this workshop, participants will learn how to:
 
 | Lab | Laboratory Exercise | Documentation |
 |------|---------------------|---------------|
-| **Lab 1** | Forensic Investigation of Application Security Incidents: SQL Injection Attack | 📖 [Open Guide](Labs/Lab-1-SQL-Injection.md) |
-| **Lab 2** | Forensic Investigation of a Compromised System Incident Using Velociraptor | 📖 [Open Guide](Labs/Lab-2-Velociraptor.md) |
-| **Lab 3** | Analyzing RAM for Suspicious Activities Using Redline | 📖 [Open Guide](Labs/Lab-3-Redline.md) |
-| **Lab 4** | Perform Static Analysis on a Suspicious File Using PEStudio | 📖 [Open Guide](Labs/Lab-4-PEStudio.md) |
-| **Lab 5** | Examine a Suspicious File Using VirusTotal | 📖 [Open Guide](Labs/Lab-5-VirusTotal.md) |
-| **Lab 6** | Perform Dynamic Malware Analysis in Windows using Process Hacker | 📖 [Open Guide](Labs/Lab-6-ProcessHacker.md) |
+| **Lab 1** | Forensic Investigation of Application Security Incidents: SQL Injection Attack | 📖 [Open Guide](docs/SQL-Injection.md) |
+| **Lab 2** | Forensic Investigation of a Compromised System Incident Using Velociraptor | 📖 [Open Guide](docs/Velociraptor.md) |
+| **Lab 3** | Analyzing RAM for Suspicious Activities Using Redline | 📖 [Open Guide](docs/Redline.md) |
+| **Lab 4** | Perform Static Analysis on a Suspicious File Using PEStudio | 📖 [Open Guide](docs/PEStudio.md) |
+| **Lab 5** | Examine a Suspicious File Using VirusTotal | 📖 [Open Guide](docs/VirusTotal.md) |
+| **Lab 6** | Perform Dynamic Malware Analysis in Windows using Process Hacker | 📖 [Open Guide](docs/Process-Hacker.md) |
 
 ---
 

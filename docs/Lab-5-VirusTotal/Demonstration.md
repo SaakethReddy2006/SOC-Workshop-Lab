@@ -44,7 +44,7 @@ The VirusTotal dashboard opens successfully.
 ## Instructions
 
 1. Click **Upload File**.
-2. Browse to the location of the file.
+2. Browse to the location of the **putty.exe**.
 3. Select the file.
 4. Wait for the upload to complete.
 

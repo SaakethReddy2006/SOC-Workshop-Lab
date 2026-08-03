@@ -147,7 +147,8 @@ Password: password
 
 4. Click **Login**.
 
-📸 Screenshot
+<img width="788" height="356" alt="Screenshot 2026-08-03 172221" src="https://github.com/user-attachments/assets/dec611c2-299e-44aa-862b-81473fa5f112" />
+
 
 ### Explanation
 

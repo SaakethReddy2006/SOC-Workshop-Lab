@@ -127,6 +127,38 @@ Follow the setup instructions and create the database.
 
 ---
 
+# Step 8 – Log in to DVWA
+
+## Instructions
+
+1. Open your browser.
+2. Navigate to:
+
+```
+http://localhost/dvwa/login.php
+```
+
+3. Enter the default credentials:
+
+```
+Username: admin
+Password: password
+```
+
+4. Click **Login**.
+
+📸 Screenshot
+
+### Explanation
+
+These are the default credentials provided by DVWA after a successful installation and database setup.
+
+### Expected Result
+
+The DVWA dashboard opens successfully.
+
+---
+
 # ✅ Installation Complete
 
 DVWA is now ready for the SQL Injection lab.

@@ -58,7 +58,7 @@ Navigate to the folder:
 cd C:\Users\<username>\Downloads\Velociraptor
 ```
 
-📸 Screenshot
+
 
 ---
 

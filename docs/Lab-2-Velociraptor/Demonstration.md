@@ -133,10 +133,15 @@ The collector is configured successfully.
 
 ## Instructions
 
-1. Click **Launch**.
+1. Click **Launch** in the Offline Collector configuration.
 2. Wait for Velociraptor to build the collector.
+3. Confirm that `Server.Utils.CreateCollector` shows **State: Completed**.
+4. Open the **Uploaded Files** tab.
+5. Locate the generated **collector `.exe`** file.
+6. Select the `.exe` and click **Download**.
+7. Save the downloaded executable to your desired location.
 
-
+> **Note:** The generated `.exe` under **Uploaded Files** is the Offline Collector. Do not confuse it with the `velociraptor.exe` used to run the Velociraptor server.
 
 ### Explanation
 
